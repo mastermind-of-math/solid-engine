@@ -1,0 +1,47 @@
+body{
+    font-family: monospace;
+    font-size: 18px;
+    background-color: lightgray;
+}
+
+h1{
+    background-color: #c0c0c0;
+    margin-top: 0px;
+    padding: 10px;
+    font-size: 38px !important;
+    padding-bottom: 20px;
+}
+
+h3{
+    border-radius: 10px;
+    width: 360px;
+    height: 30px;
+    background-color: lightblue;
+}
+
+input{
+    border-radius: 10px;
+    padding: 5px;
+}
+
+button{
+    background-color: lightgreen;
+    padding: 5px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+#a{
+    background-color: lightsalmon;
+}
+
+input, button{
+    border-style: hidden;
+}
+
+canvas{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+}
